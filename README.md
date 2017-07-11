@@ -13,8 +13,8 @@ Programming from First Principles"
 
 1. Install Haskell with [Stack](https://docs.haskellstack.org/en/stable/README/)
 2. Start the REPL with `stack ghci`
-  1. `:?` to display available commands
-  2. `:q` to quit GHCi
-  3. `:l test.hs` to load the specified module(s)
-  4. `:i something` to display information about a given name (class,
-     constructor, function)
+    1. `:?` to display available commands
+    2. `:q` to quit GHCi
+    3. `:l test.hs` to load the specified module(s)
+    4. `:i something` to display information about a given name (class,
+       constructor, function)
