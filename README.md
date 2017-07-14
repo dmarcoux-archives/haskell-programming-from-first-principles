@@ -18,3 +18,5 @@ Programming from First Principles"
     3. `:l test.hs` to load the specified module(s)
     4. `:i something` to display information about a given name (class,
        constructor, function)
+    5. `:t something` to display the type of something
+    6. `:m` to unload all modules (useful to start from fresh)
